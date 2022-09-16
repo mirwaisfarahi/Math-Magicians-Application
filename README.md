@@ -37,7 +37,7 @@ To get a local copy up and running follow these simple example steps.
 - run ```npm start```
 ### Usage
 
-## Authors
+## Author
 
 👤 **Mirwais Farahi**
 
